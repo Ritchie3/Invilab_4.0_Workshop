@@ -11,6 +11,13 @@ In dit notebook gebruiken we een populair deep learning raamwerk, PyTorch, om tr
 
 CVAT is een krachtig annotatiehulpmiddel waarmee we objecten in afbeeldingen of video's kunnen labelen met bounding boxes, polygonen of sleutelpunten. Door onze dataset handmatig te annoteren, kunnen we de grondwaarheidslabels leveren die cruciaal zijn voor het trainen van een nauwkeurig objectdetectiemodel.
 
+
+
+Surf naar https://colab.research.google.com/
+KLik op Bestand -> Notebook Uploaden -> Github 
+Voer volgende URL in: https://github.com/Ritchie3/Invilab_4.0_Workshop/blob/main/Pytorch_Transfer_Learning.ipynb
+
+
 De stappen in dit notitieboek omvatten:
 
 Het voorbereiden van de dataset: Het organiseren van de geannoteerde dataset in een geschikt formaat voor het trainen van het model.
@@ -20,3 +27,7 @@ Het model verfijnen: Het model trainen op onze geannoteerde dataset, zodat het l
 Evalueren van het model: Het beoordelen van de prestaties van het getrainde model op een validatieset of testdataset.
 Inferentie: Het getrainde model toepassen op nieuwe afbeeldingen of video's om objecten te detecteren in reële situaties.
 Door dit notitieboek te volgen, krijgt u een praktisch inzicht in het gebruik van transfer learning voor objectdetectie en hoe u de kracht van handmatig geannoteerde datasets, gemaakt met CVAT, kunt benutten.
+
+
+
+
